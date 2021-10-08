@@ -1,6 +1,6 @@
 ## Guess Number Game
 
-✅ GUI TicTacToe Game using Pyside6.
+✅ GUI Guess Number Game using Pyside6.
 
 ✅ Guess the number between 1 and 50.
 
